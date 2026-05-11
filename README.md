@@ -1,5 +1,23 @@
-# Food-Delivery-App-Design
-Wireframing and Low-fidelity UI design for a food delivery app.
-<img width="5205" height="7154" alt="android-medium-1-3" src="https://github.com/user-attachments/assets/0981f00d-9cf2-4980-84cd-7dbcb7283f90" />
-<img width="9586" height="7079" alt="android-medium-1-5" src="https://github.com/user-attachments/assets/6a0aaf98-cbf6-40a3-b1ea-ac17da7b23fa" />
+# Food Delivery App - Low Fidelity Wireframes
 
+## 📌 Project Overview
+This repository contains the Task 1 project for a Food Delivery Mobile Application. The focus of this task is on creating a solid user experience (UX) through low-fidelity wireframing, ensuring a logical flow from restaurant discovery to checkout.
+
+## 🛠 Tools Used
+* **Penpot** (Primary design & wireframing tool)
+* **GitHub** (Project documentation and version control)
+
+## 📱 User Flow Design
+* **Onboarding:** Seamless login and registration process.
+* **Discovery:** User-friendly home screen with categorized restaurant listings.
+* **Selection:** Detailed menu navigation.
+* **Checkout:** Simple and intuitive cart and payment flow.
+
+## 📁 How to Access the Design
+To view the source file and interactive elements:
+1. Download the `.penpot` file from the list above.
+2. Visit [Penpot.app](https://penpot.app/) and log in.
+3. Use the **Import File** option to upload the downloaded project.
+
+---
+*Created as part of the UI/UX Design Task.*
